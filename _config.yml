@@ -4,8 +4,8 @@ menu:
   归档: /archives
 
 rss: /atom.xml
-nav: right
-mobile_nav: right
+nav: left
+mobile_nav: left
 
 
 
@@ -34,13 +34,13 @@ archive_type: 'monthly'
 show_count: false
 
 # Background
-# background_image: /images/bg.jpeg
+# background_image: /images/avatar1.jpeg
 background_title: 图片来自网络
 
 #Userinfo
-author: 一路烟霞
-slogan: 特别耐撕的小前端，资深的打酱油攻城狮。
-# avatar: /images/code-title.png
+author: 如歌如羽
+slogan: 移动前端开发工程师、Android开发工程师、IOS开发工程师、全栈开发工程师
+avatar: /images/avatar1.jpeg
 avatar_title: 图片来自网络
 
 # Article code panel: cloud doorframe mac
@@ -60,7 +60,6 @@ google_site_verification:
 baidu_site_verification: 
 favicon: /images/default-avatar.webp
 twitter:
-google_plus:
 fb_admins:
 fb_app_id:
 keywords:
