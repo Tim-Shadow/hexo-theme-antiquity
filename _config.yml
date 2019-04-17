@@ -2,6 +2,8 @@
 menu:
   首页: /
   归档: /archives
+  游戏高分榜: /nodejs/wechat/ranking-list
+  数据库: /phpmyadmin
 
 rss: /atom.xml
 nav: left
