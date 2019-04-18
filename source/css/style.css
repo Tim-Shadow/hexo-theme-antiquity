@@ -430,6 +430,7 @@ html, body, #fullpage{
 }
 .widget {
   z-index: 2;
+  line-height: 2;
   position: relative;
 }
 .avatar-box {
@@ -674,6 +675,8 @@ html, body, #fullpage{
   font-size: 1.4em;
   margin: 1.6em 20px;
   text-align: left;
+  padding-left: 1em;
+  border-left:#999 5px solid;
 }
 .article-content blockquote footer {
   font-size: 14px;
