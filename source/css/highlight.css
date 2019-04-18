@@ -4,7 +4,7 @@
   border-radius: 4px;
   margin: 1.6em 0;
   padding-top: 38px;
-  background: #21252B;
+  background: #555555;
 }
 .article-content .highlight::-webkit-scrollbar {
   height: 10px;
@@ -24,12 +24,12 @@
   content: attr(data-rel);
   height: 38px;
   line-height: 38px;
-  color: #fff;
-  font-size: 14px;
+  color: #aaa;
+  font-size: 10px;
   position: absolute;
   top: 0;
   left: 0;
-  padding: 0px 75px;
+  padding: 0px 60px;
 }
 .article-content-mac .highlight-box::before {
   padding: 0px 90px;
@@ -37,7 +37,7 @@
 .article-content-cloud .highlight-box::after{
   content: "";
   position: absolute;
-  top: 0;
+  top: 7px;
   left: 4px;
   width: 46px;
   height: 19px;
@@ -105,7 +105,7 @@
 }
 .article-content pre,
 .article-content .highlight {
-  background: #282C34;
+  background: #3E4451;
   overflow: auto;
   color: #ABB2BF;
   line-height: 22px;

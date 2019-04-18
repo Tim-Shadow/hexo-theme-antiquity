@@ -672,10 +672,11 @@ html, body, #fullpage{
   padding: 10px 0;
 }
 .article-content blockquote {
-  font-size: 1.4em;
+  font-size: 1.1em;
   margin: 1.6em 20px;
   text-align: left;
   padding-left: 1em;
+  color: darkgray;
   border-left:#999 5px solid;
 }
 .article-content blockquote footer {
