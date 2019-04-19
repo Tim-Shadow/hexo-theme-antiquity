@@ -456,6 +456,24 @@ html, body, #fullpage{
   padding: 20px;
   background: rgba(255, 255, 255, .85)
 }
+
+.category-list-item .category-list-child .category-list-link{
+  font-size: 90%;
+  color: #999
+}
+
+.category-list-child{
+  position: relative;
+  padding-left: 1.6em;
+}
+.category-list-child::before{
+  content: "—";
+  color: #bbb;
+  left: 0.5em;
+  position: absolute;
+  
+}
+
 .article {
   margin-bottom: 50px;
 }
