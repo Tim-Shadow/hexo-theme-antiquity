@@ -52,7 +52,7 @@ highlightPanel: cloud
 gitment:
   enable: true
   owner: Shadow如寒灬
-  repo: 
+  repo: wanyan.site
   client_id: 46ba7fc30923a2823db1
   client_secret: 85f0d6bf4f24d13a76afd1de0100b85654526f85
 
