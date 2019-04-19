@@ -478,12 +478,21 @@ html, body, #fullpage{
 .article-tag-list {
   display: flex;
 }
+
 .article-tag-list-item {
   padding: 0 14px;
   background: url('../images/icons/css_tag.png');
   background-size: auto 14px;
   background-repeat: no-repeat;
   background-position: left center;
+}
+
+.article-tag-list-item:nth-child(1){
+  margin-left: 40px;
+}
+
+.article-tag-list-item .article-tag-list-link{
+  color: #999
 }
 .article-inner {
   padding-top: 20px;
