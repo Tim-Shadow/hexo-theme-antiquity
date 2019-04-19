@@ -466,7 +466,8 @@ html, body, #fullpage{
   position: relative;
   padding-left: 1.6em;
 }
-.category-list-child::before{
+
+.category-list-child .category-list-child::before{
   content: "—";
   color: #bbb;
   left: 0.5em;
