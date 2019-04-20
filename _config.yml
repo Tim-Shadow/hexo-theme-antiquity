@@ -36,7 +36,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Background
-# background_image: /images/avatar1.jpeg
+background_image: /images/avatar1.jpeg
 background_title: 图片来自网络
 
 #Userinfo
