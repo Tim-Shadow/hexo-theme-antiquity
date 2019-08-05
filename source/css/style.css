@@ -740,6 +740,12 @@ html, body, #fullpage{
   height: 100%;
   margin-top: 0;
 }
+
+.article-content code {
+  background:#f6f8fa;
+}
+
+
 .article-gallery-img:first-child {
   display: block
 }

@@ -124,15 +124,33 @@
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
 }
 .article-content code {
-  background: #eee;
+  background: #f6f8fa;
+  color: #be7e4a;
   text-shadow: 0 1px #fff;
   padding: 0 0.3em;
 }
+
+.article-content p a:focus, .article-content p a:hover, .article-content p a:hover{
+  text-decoration:none;
+  color: #c7254e;
+}
+
+
+.article-content p a{
+  text-decoration:underline;
+}
+
+
 .article-content pre code {
   background: none;
   text-shadow: none;
   padding: 0;
 }
+
+.article-content .highlight a {
+  color: #c7254e;
+}
+
 .article-content .highlight pre {
   border: none;
   margin: 0;
