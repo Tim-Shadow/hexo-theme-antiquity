@@ -551,7 +551,7 @@ html, body, #fullpage{
 .article-content img {
   max-width: 100%;
   display: block;
-  margin: auto;
+  margin-left: 0;
 }
 .article-gallery-img  {
   display: none;
@@ -678,9 +678,9 @@ html, body, #fullpage{
 .article-content img,
 .article-content video {
   max-width: 100%;
+  margin-left: 0;
   height: auto;
   display: block;
-  margin: auto;
 }
 .article-content iframe {
   border: none;
